@@ -1,9 +1,11 @@
 ### Példa a telepítőhöz
 
-- . .\Install-Xampp.ps1
-- Install-Xampp --Verison 8.1.12
+<p align="center">
+  <img src="https://i.imgur.com/iAykdxP.png" alt="Telepito pelda" />
+</p>
 
 ### Példa az uninstallerhez
 
-- . .\Uninstall-Xampp.ps1
-- Uninstall-Xampp 'C:\xampp\uninstall.exe'
+<p align="center">
+  <img src="https://i.imgur.com/g55hi71.png" alt="Uninstaller pelda" />
+</p>
